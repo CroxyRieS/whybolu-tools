@@ -1,0 +1,22 @@
+{
+  "name": "whybolu-tools",
+  "version": "1.2.0",
+  "description": "Kolayca erişim sağlayabileceğiniz bir çok işi yapabileceğiniz ücretsiz bir modül!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheClawNz/whybolu-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheClawNz/whybolu-tools/issues"
+  },
+  "homepage": "https://github.com/TheClawNz/whybolu-tools#readme",
+  "author": "theclawnz",
+  "license": "ISC"
+}
